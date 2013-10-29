@@ -10,15 +10,15 @@ The locations you are looking for are tech smaller tech companies that are seeki
 
 Use the following email template as a base and feel free to add in some personal flair!  Once you find a location and things go well you’ll be able to use that location each month.
 
-_Hi,
+_"Hi,_
 
-Hack The People <insert chapter name> (http://hackthepeople.org or meetup url)  is looking for a space to hold a once a month weeknight meetup event.  We’re an organization that’s dedicated to encouraging diversity and fostering mentorship in technology.  The meetup will be approximately 2 hrs long, in the evening and around 15 people will attend.  The meetup consists of a key note speaker (10 - 15 min talk), a round of lightning talks, and a round table discussion focussing on mentorship in tech.
+_Hack The People <insert chapter name> (http://hackthepeople.org or meetup url)  is looking for a space to hold a once a month weeknight meetup event.  We’re an organization that’s dedicated to encouraging diversity and fostering mentorship in technology.  The meetup will be approximately 2 hrs long, in the evening and around 15 people will attend.  The meetup consists of a key note speaker (10 - 15 min talk), a round of lightning talks, and a round table discussion focussing on mentorship in tech._
 
-We would be bringing 15 people to your business that would be exposed to your company, tweet about how awesome your company is, checkin, and in general show you much love!
+_We would be bringing 15 people to your business that would be exposed to your company, tweet about how awesome your company is, checkin, and in general show you much love!_
 
-Please let me know if your company is interested in hosting one of our meetups.
+_Please let me know if your company is interested in hosting one of our meetups._
 
-Thank you for your time!_
+_Thank you for your time!"_
 
 
 ### Checklist
@@ -60,15 +60,15 @@ _“Hi! Welcome to Hack The People! We’re glad you’re here. Hack The People 
 
 ### Thanks to sponsor - 5 min
 
-If the sponsor is present, have them address the meetup by saying _“We’d like to thank ___________ (name of the person who hooked you up with the location) from ____________ (this company that is hosting you)”_, and give the sponsor a few seconds to introduce themselves and their company.
+If the sponsor is present, have them address the meetup by saying _“We’d like to thank ___________ _(name of the person who hooked you up with the location) from ____________ _(this company that is hosting you)”_, and give the sponsor a few seconds to introduce themselves and their company.
 
---They should only talk for half a minute or less. If they try to keep going, or seem like they’re settling in for a long talk that will suck up the time of the group, break in when you can and say “Thanks for that; let’s hold more conversation about how awesome your company is for the beers afterwards! Everyone, let’s thank our sponsors! [start clapping, and everyone will join you]
+- They should only talk for half a minute or less. If they try to keep going, or seem like they’re settling in for a long talk that will suck up the time of the group, break in when you can and say “Thanks for that; let’s hold more conversation about how awesome your company is for the beers afterwards! Everyone, let’s thank our sponsors! [start clapping, and everyone will join you]
 
 ### Key Note - 15 min
 
 1. Introduce the keynote speaker.  Take 45 seconds to tell everyone the speakers accomplishments, why they're amazing, and the value that they'll provide you by listening.
 Fill in the blanks below, and elaborate based on what you know [substitute the acceptable pronoun for ‘they’]:
-_“We’d like to welcome our keynote speaker for tonight! ________________________ (name of keynote) is a well-respected _______________________ (developer, engineer, CEO, startup entrepreneur, other job title) at __________________________ (Their company). They’re known for _______________________ (their major accomplishments), and they’re here to talk about _________________ (speech topic). We’re looking forward to talking to them and having them join us tonight! Please hold questions until the end, when we’ll have a Q/A time. Everyone, _________________ (name of speaker)."_
+_“We’d like to welcome our keynote speaker for tonight! ________________________ _(name of keynote) is a well-respected _______________________ _(developer, engineer, CEO, startup entrepreneur, other job title) at __________________________ _(Their company). They’re known for _______________________ (their major accomplishments), and they’re here to talk about _________________ (speech topic). We’re looking forward to talking to them and having them join us tonight! Please hold questions until the end, when we’ll have a Q/A time. Everyone, _________________ (name of speaker)."_
 
 2. The keynote speaker will talk. 
 
@@ -118,11 +118,11 @@ Direct everyone to got out to the after meetup socializing location.  It's impor
 
 ### When things go wrong
 
-+ A location sponsor or person we owe something to for the meetup (perhaps the hosting company’s representative) shows up and expects to participate without paying or RSVPing. 
+1. A location sponsor or person we owe something to for the meetup (perhaps the hosting company’s representative) shows up and expects to participate without paying or RSVPing. 
 
---Head this one off at the pass. Make sure to contact the person who is location-sponsoring your meetup to thank them for their offer of the location. Ask them if they want to come to the meetup itself to participate, and if so, give them the RSVP url. Make sure they know that there’s a limited amount of people who can come, and if they want to, they need to RSVP in advance. It helps that we’re a charity. If they ask why they’re not getting a free pass, tell them that no one ever gets a free pass, including the national staff, the board of directors, and the resurrected corpse of Steve Jobs. NO ONE. Make it sound nicer and more tactful. 
---If someone ELSE from the company shows up without checking with you in advance, refer to this communication you’ve had with the person who is setting you up with the location, and refuse them entrance courteously--unless there’s additional spots available for the Meetup, in which case give them the URL and ask them to register before allowing them in. It is more important to preserve the integrity of the meetup.
+ - Head this one off at the pass. Make sure to contact the person who is location-sponsoring your meetup to thank them for their offer of the location. Ask them if they want to come to the meetup itself to participate, and if so, give them the RSVP url. Make sure they know that there’s a limited amount of people who can come, and if they want to, they need to RSVP in advance. It helps that we’re a charity. If they ask why they’re not getting a free pass, tell them that no one ever gets a free pass, including the national staff, the board of directors, and the resurrected corpse of Steve Jobs. NO ONE. Make it sound nicer and more tactful. 
+ - If someone ELSE from the company shows up without checking with you in advance, refer to this communication you’ve had with the person who is setting you up with the location, and refuse them entrance courteously--unless there’s additional spots available for the Meetup, in which case give them the URL and ask them to register before allowing them in. It is more important to preserve the integrity of the meetup.
 
-+ If the building is closed or you cannot reach the person onsite who is the location sponsor
+2. If the building is closed or you cannot reach the person onsite who is the location sponsor
 
---Hopefully you have checked the day before with the location sponsor to make sure that you have building access. If something goes very wrong, move to the restaurant next door that you have arranged for the afterparty. Thank the restaurant kindly for their hosting you, and ask if there’s a private room. Shortly, we’ll be able to give you a receipt and the ability for the restaurant to write off any expenses as a charitable deduction.
+ - Hopefully you have checked the day before with the location sponsor to make sure that you have building access. If something goes very wrong, move to the restaurant next door that you have arranged for the afterparty. Thank the restaurant kindly for their hosting you, and ask if there’s a private room. Shortly, we’ll be able to give you a receipt and the ability for the restaurant to write off any expenses as a charitable deduction.
