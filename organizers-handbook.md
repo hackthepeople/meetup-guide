@@ -74,9 +74,12 @@ _“We’d like to welcome our keynote speaker for tonight! ____________________
 
 3. At the 1 minute mark before they are done talking signal them to start wrapping up.
 
-4. Once the speaker finishes tell the group they have 5 minutes to ask questions.
+4. Once the speaker finishes tell the group they have 5 minutes to ask questions.*
 
 5. After 5 minutes let them know you’ll take one more question.  Explain all other questions can be asked afterwards at the networking portion of the meetup. When the last question is done, say “Everyone, please thank our amazing keynote speaker, ______________ (name of keynote speaker)!” [Begin clapping, and everyone will follow along]
+
+*What if no one asks a question of the speaker?
+- Start with your own question. (Have a good questions prepared from your notes of the speech or think about a question that may be of interest to the audience.)
 
 ### Quick Break - 5 min
 5 minute break for food, tea, and or coffee and bio functions.  Call everyone back when it’s time to start again.
