@@ -6,7 +6,7 @@
 See the speaker guidelines (place link later) for what types of speakers we’re looking for.  Keynotes are only 10 minutes with 5 minutes for questions.  Because of this the burden on the keynote speaker should be small.
 
 ### How to get a location
-The locations you are looking for are tech smaller tech companies that are seeking more exposure in the community and those that have established programs for hosting meetups.  These types of companies already know the benefits of hosting events.
+The locations you are looking for are smaller tech companies that are seeking more exposure in the community and those that have established programs for hosting meetups.  These types of companies already know the benefits of hosting events.
 
 Use the following email template as a base and feel free to add in some personal flair!  Once you find a location and things go well you’ll be able to use that location each month.
 
