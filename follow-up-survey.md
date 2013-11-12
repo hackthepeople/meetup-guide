@@ -1,6 +1,7 @@
 #Follow Up Survey for HTP Meetups
 
-##Here is a survey template you can use to ask your meetup attendees of how the meetup went. 
+###Here is a first draft of a survey template you can use to ask your meetup attendees of how the meetup went. 
+
 
 1. On a scale of one-ten, how enjoyable was the meetup? 
 
