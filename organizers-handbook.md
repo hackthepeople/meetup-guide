@@ -129,3 +129,8 @@ Direct everyone to got out to the after meetup socializing location.  It's impor
 2. If the building is closed or you cannot reach the person onsite who is the location sponsor
 
  - Hopefully you have checked the day before with the location sponsor to make sure that you have building access. If something goes very wrong, move to the restaurant next door that you have arranged for the afterparty. Thank the restaurant kindly for their hosting you, and ask if there’s a private room. Shortly, we’ll be able to give you a receipt and the ability for the restaurant to write off any expenses as a charitable deduction.
+
+3. If the speaker fails to arrive on time.
+ 
+ - Be sure to communicate before hand that this meetup sticks to the schedule and we expect everyone, including the speaker, to show up promptly and be ready to begin on time.  
+ 
