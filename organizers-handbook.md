@@ -132,5 +132,5 @@ Direct everyone to got out to the after meetup socializing location.  It's impor
 
 3. If the speaker fails to arrive on time.
  
- - Be sure to communicate before hand that this meetup sticks to the schedule and we expect everyone, including the speaker, to show up promptly and be ready to begin on time.  
+ - Be sure to communicate beforehand that this meetup sticks to the schedule and we expect everyone, including the speaker, to show up promptly and be ready to begin on time.  
  
