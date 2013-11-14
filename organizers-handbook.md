@@ -122,15 +122,12 @@ Direct everyone to got out to the after meetup socializing location.  It's impor
 ### When things go wrong
 
 1. A location sponsor or person we owe something to for the meetup (perhaps the hosting company’s representative) shows up and expects to participate without paying or RSVPing. 
-
- - Head this one off at the pass. Make sure to contact the person who is location-sponsoring your meetup to thank them for their offer of the location. Ask them if they want to come to the meetup itself to participate, and if so, give them the RSVP url. Make sure they know that there’s a limited amount of people who can come, and if they want to, they need to RSVP in advance. It helps that we’re a charity. If they ask why they’re not getting a free pass, tell them that no one ever gets a free pass, including the national staff, the board of directors, and the resurrected corpse of Steve Jobs. NO ONE. Make it sound nicer and more tactful. 
- - If someone ELSE from the company shows up without checking with you in advance, refer to this communication you’ve had with the person who is setting you up with the location, and refuse them entrance courteously--unless there’s additional spots available for the Meetup, in which case give them the URL and ask them to register before allowing them in. It is more important to preserve the integrity of the meetup.
+    - Head this one off at the pass. Make sure to contact the person who is location-sponsoring your meetup to thank them for their offer of the location. Ask them if they want to come to the meetup itself to participate, and if so, give them the RSVP url. Make sure they know that there’s a limited amount of people who can come, and if they want to, they need to RSVP in advance. It helps that we’re a charity. If they ask why they’re not getting a free pass, tell them that no one ever gets a free pass, including the national staff, the board of directors, and the resurrected corpse of Steve Jobs. NO ONE. Make it sound nicer and more tactful. 
+    - If someone ELSE from the company shows up without checking with you in advance, refer to this communication you’ve had with the person who is setting you up with the location, and refuse them entrance courteously--unless there’s additional spots available for the Meetup, in which case give them the URL and ask them to register before allowing them in. It is more important to preserve the integrity of the meetup.
 
 2. If the building is closed or you cannot reach the person onsite who is the location sponsor
-
- - Hopefully you have checked the day before with the location sponsor to make sure that you have building access. If something goes very wrong, move to the restaurant next door that you have arranged for the afterparty. Thank the restaurant kindly for their hosting you, and ask if there’s a private room. Shortly, we’ll be able to give you a receipt and the ability for the restaurant to write off any expenses as a charitable deduction.
+    - Hopefully you have checked the day before with the location sponsor to make sure that you have building access. If something goes very wrong, move to the restaurant next door that you have arranged for the afterparty. Thank the restaurant kindly for their hosting you, and ask if there’s a private room. Shortly, we’ll be able to give you a receipt and the ability for the restaurant to write off any expenses as a charitable deduction.
 
 3. If the speaker fails to arrive on time.
- 
- - Be sure to communicate beforehand that this meetup sticks to the schedule and we expect everyone, including the speaker, to show up promptly and be ready to begin on time.  
+    - Be sure to communicate beforehand that this meetup sticks to the schedule and we expect everyone, including the speaker, to show up promptly and be ready to begin on time.  
  
