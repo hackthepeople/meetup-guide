@@ -3,7 +3,7 @@
 ## Preparation
 
 ### How to get a speaker
-See the speaker guidelines (place link later) for what types of speakers we’re looking for.  Keynotes are only 10 minutes with 5 minutes for questions.  Because of this the burden on the keynote speaker should be small.
+See the [speaker policies] (https://github.com/hackthepeople/meetup-guide/blob/master/speaker-policies.md) for what types of speakers we’re looking for.  Keynotes are only 10 minutes with 5 minutes for questions.  Because of this the burden on the keynote speaker should be small.
 
 ### How to get a location
 The locations you are looking for are smaller tech companies that are seeking more exposure in the community and those that have established programs for hosting meetups.  These types of companies already know the benefits of hosting events.
