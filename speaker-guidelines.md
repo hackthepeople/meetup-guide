@@ -8,7 +8,9 @@
   * topics related to social issues in technology,
   * topics related to education & knowledge sharing in technology,
   * specific project(s) you work(ed) on or are involved with,
-  * introduction to a technology you're an expert in.
+  * introduction to a technology you're an expert in,
+  * topics related to career development,
+  * specific mentorship stories.
 
 - Technical topics need to be presented in a way that makes them understandable to reasonably intelligent non-technical persons.
 
